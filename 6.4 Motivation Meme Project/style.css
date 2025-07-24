@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+
+h1{
+    color:aliceblue;
+    font-size: 3rem
+
+}
+
+.baal{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.photu{
+    border: 5px solid white;
+    width:100%;
+}
